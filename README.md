@@ -1,4 +1,4 @@
-# Tell me how to remove them locally and remotely.
+#### Tell me how to remove them locally and remotely.
 ● To delete a remote branch
 git push origin :branch_name
 ● To delete a local branch
